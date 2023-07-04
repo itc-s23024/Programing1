@@ -1,5 +1,5 @@
 # Programming1
-# 教科書 課題
+## 教科書 課題
 ###  CHAPTER1　Pythonの基本
 * 1.1 Pythonとその特徴<br>
 * 1.2 コードの実行方法<br>
