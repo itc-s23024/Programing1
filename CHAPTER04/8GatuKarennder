@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 import calendar
 
 def create_colored_calendar(year, month):
@@ -24,4 +22,3 @@ if __name__ == "__main__":
     month = 8
     create_colored_calendar(year, month)
 
->>>>>>> origin/main
