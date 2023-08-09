@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Programming1
 ## 教科書 課題
 ###  CHAPTER1　Pythonの基本
@@ -44,8 +42,8 @@
 ### CHAPTER5　データ構造
 * 5.1 リストのメソッド[問題１](./CHAPTER05/Q5_1_1.py) [問題2](./CHAPTER05/Q5_1_2.py) [問題3](./CHAPTER05/Q5_1_3.py)
 * 5.2 リスト内包表記[問題１](./CHAPTER05/Q5_2_1.py) [問題2](./CHAPTER05/Q5_2_2.py) [問題3](./CHAPTER05/Q5_2_3.py)
-* 5.3 del を使った削除<br>
-* 5.4 タプル<br>
+* 5.3 del を使った削除  
+* 5.4 タプル[問題１](./CHAPTER05/Q5_4_1.py) [問題2](./CHAPTER05/Q5_4_2.py) [問題3](./CHAPTER05/Q5_4_3.py) [問題4](./CHAPTER05/Q5_4_4.py)
 * 5.5 集合（set）<br>
 * 5.6 集合を使った演算<br>
 * 5.7 辞書（dict）<br>
@@ -75,4 +73,3 @@
 * 8.8 sqlite3<br>
 * 8.9 decimal<br>
 * 8.10 logging<br>
->>>>>>> origin/main
