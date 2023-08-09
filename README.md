@@ -37,7 +37,7 @@
 * 4.5 関数はオブジェクト[問題１](./CHAPTER04/Q4_5_1.py) [問題2](./CHAPTER04/Q4_5_2.py)
 * 4.6 ラムダ式[問題１](./CHAPTER04/Q4_6_1.py) [問題2](./CHAPTER04/Q4_6_2.py)
 * 4.7 関数の中の関数[問題１](./CHAPTER04/Q4_7_1.py)  [問題2](./CHAPTER04/20230727_9*9.py)
-* 4.8 デコレータ[問題１](./CHAPTER04/Q4_8_1.py) [問題2](./CHAPTER04/8GatuKarennder)
+* 4.8 デコレータ[問題１](./CHAPTER04/Q4_8_1.py) [問題2](./CHAPTER04/8GatuKarennder) [問題3](./CHAPTER04/8.2GatuKarennder)
 * 4.9 コーディングスタイル[問題１](./CHAPTER04/Q4_9_1.py)  
 ### CHAPTER5　データ構造
 * 5.1 リストのメソッド[問題１](./CHAPTER05/Q5_1_1.py) [問題2](./CHAPTER05/Q5_1_2.py) [問題3](./CHAPTER05/Q5_1_3.py)
