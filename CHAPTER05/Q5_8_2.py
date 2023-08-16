@@ -9,7 +9,11 @@ data = [
 print(data)
 
 
+<<<<<<< HEAD
 member_information = []
+=======
+member_information = {}
+>>>>>>> origin/main
 
 for record in data:
     key = (record[0], record[1])
