@@ -18,7 +18,7 @@ class Cylinder:
 
     def calc_surface_area(self):
         c = self.calc_base_area()
-        s = self.cale_side_area()
+        s = self.calc_side_area()
         return 2 * c + s
 
     def calc_volume(self):
